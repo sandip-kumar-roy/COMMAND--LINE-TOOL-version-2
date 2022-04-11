@@ -1,0 +1,22 @@
+{
+  "name": "command",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bin": {
+    "JUSTICE-LEAGUE": "node index.js"
+  },
+  "dependencies": {
+    "colors": "^1.4.0",
+    "log-update": "^5.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
