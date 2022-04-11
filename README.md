@@ -17,12 +17,12 @@ Major upgrade for the previous command line tool v-1.0.0 👨‍🔧
  
 
 
-# ***BASIC INTERFACE*** 🧑‍ 
+# **BASIC INTERFACE**🧑‍ 
 ![interface](https://user-images.githubusercontent.com/101457128/162678835-e5cf7db0-b339-4b69-94ff-437c5d347c1a.png)
 
 
 
-# 🤙STEPS TO RUN ON YOUR TERMINAL
+# 🤙STEPS TO RUN ON UR TERMINAL
 
 
    **1) INSTALL "Node Js" ON UR TERMINAL**
