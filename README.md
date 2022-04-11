@@ -29,27 +29,27 @@ Major upgrade for the previous command line tool v-1.0.0 👨‍🔧
         
    **2) INSTALL "VS code" AND SOME "JavaScript extensions"**
         
-              * Prettier
-              * JavaScript (ES6) Code Snippets
-              * Node.js Modules Intellisense
-              * Bracket pair colorizer
+            * Prettier
+            * JavaScript (ES6) Code Snippets
+            * Node.js Modules Intellisense
+            * Bracket pair colorizer
               
         
    **2) Create a new project folder**
         
-                * mkdir command   (folder created )
-                * cd command      ( directory changed)
-                * touch index.js  (our file where we'll code)
+            * mkdir command   (folder created )
+            * cd command      ( directory changed)
+            * touch index.js  (our file where we'll code)
                 
    **3) Execute The following commands to create a JSON FILE**
                 
-                *npm init -y
+             * npm init -y
                 
    **4) Copy the provided code into your index.js file from my index.js file**
    
             # NOTE : provide the shebang line in order to execute bash/script commands
             
-                * ! /usr/bin/env node  
+              * ! /usr/bin/env node  
                 
    **5)  We will be writing todo Tasks in a file called "todo.txt" and when they will be completed they 
              will be erased from "todo.txt" and will be written in "done.txt" .**
@@ -57,12 +57,12 @@ Major upgrade for the previous command line tool v-1.0.0 👨‍🔧
               
    **6) Install various dependencies for this C-L-I**
          
-              * npm install colors
-              * npm i --save-dev nodemon
-              * npm i log-update
+            * npm install colors
+            * npm i --save-dev nodemon
+            * npm i log-update
    **7) After writing the code simply run the file using**
               
-              * node index.js
+            * node index.js
               
    **NOTE 😬 🥶**
    ************
@@ -111,7 +111,6 @@ https://user-images.githubusercontent.com/101457128/162687049-334342e8-3c47-4efb
 ![del 1](https://user-images.githubusercontent.com/101457128/162688177-5fe3bd02-2b6e-4e6e-8dc9-819386df9760.png)
 
 
-![after del 1](https://user-images.githubusercontent.com/101457128/162688111-d3256a89-322c-4822-a5f1-fe6a6f3ca80c.png)
 
          
           
