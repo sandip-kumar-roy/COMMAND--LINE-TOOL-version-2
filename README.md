@@ -84,7 +84,7 @@ Major upgrade for the previous command line tool v-1.0.0 👨‍🔧
   
   
       
-https://user-images.githubus"ercontent.com/101457128/162687049-334342e8-3c47-4efb-b105-994df493bac6.mp4
+https://user-images.githubusercontent.com/101457128/162687049-334342e8-3c47-4efb-b105-994df493bac6.mp4
 
 
 
