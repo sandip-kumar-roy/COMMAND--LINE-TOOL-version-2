@@ -51,8 +51,8 @@ Major upgrade for the previous command line tool v-1.0.0 👨‍🔧
             
                 * ! /usr/bin/env node  
                 
-   **5)  We will be writing todo Tasks in a file called todo.txt and when they will be completed they 
-             will be erased from todo.txt and will be written in done.txt.**
+   **5)  We will be writing todo Tasks in a file called "todo.txt" and when they will be completed they 
+             will be erased from "todo.txt" and will be written in "done.txt" .**
  
               
    **6) Install various dependencies for this C-L-I**
