@@ -1,14 +1,20 @@
-# COMMAND--LINE-TOOL-version-2  🙂 🆒 🦸
+# COMMAND-LINE-TOOL-version-2  🙂 🆒 🦸
 Major upgrade for the previous command line tool v-1.0.0 👨‍🔧
 
-#                        WHAT THIS "C-L-I TOOL" DOES 🔽 🉑
-# **********************************************************************************
-# |   1) We can add various task which are needed to be done using "add"            |
-# |   2) After completing that task we can mark it as DONE using "done"             |
-# |   3) You can List whatever Task that are left to be done using "ls"             |
-# |   4) You can see the Report of Work which are LEFT or COMPLETED using "report"  |
-# |   5)In case if u forgot an command u can use "help" command using "help"        |
-# **********************************************************************************
+#   WHAT THIS "C-L-I TOOL" DOES 🔽 🉑
+# ********************************************************************
+
+           1) We can add various task which are needed to be done using "add"           
+
+            2) After completing that task we can mark it as DONE using "done"             
+
+            3) You can List whatever Task that are left to be done using "ls"             
+
+            4) You can see the Report of Work which are LEFT or COMPLETED using "report"  
+
+            5)In case if u forgot an command u can use "help" command using "help"        
+ 
+# ******************************************************************
 
 #  ******BASIC INTERFACE******* 🧑‍🔧 🦾
 *************************************
@@ -17,7 +23,9 @@ Major upgrade for the previous command line tool v-1.0.0 👨‍🔧
 
 
 # 🤙 👍 🌿 STEPS TO INSTALL THE PACKAGE ON YOUR TERMINAL 🥰 🙂 😃
-#************************************************************************************
+#********************************************************************
+
+
         1) INSTALL NODE JS ON UR TERMINAL
         
         2) INSTALL VS CODE AND SOME JavaScript extensions
@@ -74,7 +82,7 @@ Major upgrade for the previous command line tool v-1.0.0 👨‍🔧
   
       
 
-                Uploading CommandLine-2022-04-11_11.38.51.mp4…
+            
 
 
          
