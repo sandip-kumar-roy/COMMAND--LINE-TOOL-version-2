@@ -1,31 +1,28 @@
 
 
-# COMMAND-LINE-TOOL-version-2  🙂 😃 🙂
+# COMMAND-LINE-TOOL v(2.0.0)
 Major upgrade for the previous command line tool v-1.0.0 👨‍🔧
 
-#   WHAT THIS "C-L-I TOOL" DOES 🧒 🐥 🙂
-# **************************************************************
+# WHAT THIS "C-L-I" DOES🧒🐥🙂
 
-           1) We can add various task which are needed to be done using "add"           
+         1) We can add various task which are needed to be done using "add"           
 
-            2) After completing that task we can mark it as DONE using "done"             
+         2) After completing that task we can mark it as DONE using "done"             
 
-            3) You can List whatever Task that are left to be done using "ls"             
+         3) You can List whatever Task that are left to be done using "ls"             
 
-            4) You can see the Report of Work which are LEFT or COMPLETED using "report"  
+         4) You can see the Report of Work which are LEFT or COMPLETED using "report"  
 
-            5)In case if u forgot an command u can use "help" command using "help"        
+         5)In case if u forgot an command u can use "help" command using "help"        
  
-# ******************************************************************
 
-#  ******BASIC INTERFACE******* 🧑‍ 💕 💕
-   *************************************
+
+# ***BASIC INTERFACE*** 🧑‍ 
 ![interface](https://user-images.githubusercontent.com/101457128/162678835-e5cf7db0-b339-4b69-94ff-437c5d347c1a.png)
 
 
 
-# 🤙 👍 🍀 STEPS TO RUN ON YOUR TERMINAL 🍀  👍 🖐️
-# ********************************************************************
+# 🤙STEPS TO RUN ON YOUR TERMINAL
 
 
    **1) INSTALL NODE JS ON UR TERMINAL**
@@ -84,10 +81,10 @@ Major upgrade for the previous command line tool v-1.0.0 👨‍🔧
                       
                       
   # DEMO OF THE PROJECT COMMAND-LINE-TOOL V-2.0.0
-  # ************************************************
+  
   
       
-https://user-images.githubusercontent.com/101457128/162687049-334342e8-3c47-4efb-b105-994df493bac6.mp4
+https://user-images.githubus"ercontent.com/101457128/162687049-334342e8-3c47-4efb-b105-994df493bac6.mp4
 
 
 
