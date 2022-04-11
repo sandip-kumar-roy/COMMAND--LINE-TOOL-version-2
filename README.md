@@ -25,9 +25,9 @@ Major upgrade for the previous command line tool v-1.0.0 👨‍🔧
 # 🤙STEPS TO RUN ON YOUR TERMINAL
 
 
-   **1) INSTALL NODE JS ON UR TERMINAL**
+   **1) INSTALL "Node Js" ON UR TERMINAL**
         
-   **2) INSTALL VS CODE AND SOME JavaScript extensions**
+   **2) INSTALL "VS code" AND SOME "JavaScript extensions"**
         
               * Prettier
               * JavaScript (ES6) Code Snippets
